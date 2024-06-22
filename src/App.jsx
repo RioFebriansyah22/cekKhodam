@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import InputForm from './Components/CardKodam';
 import emyu from './Images/emyu.jpg'
 import rumme from './Images/rumme.jpg'
+import messi from './Images/messi.jpg'
 
 function App() {
   const [nameInput, setNameInput] = useState('');
@@ -32,6 +33,7 @@ function App() {
     { name: 'Goat Messi' },
 
     { name: 'Rummenigge',img: rumme, decs: 'kamu adalah titisan Rumme' },
+    { name: 'Messi',img: messi, decs: 'kamu adalah goat' },
     { name: 'emyu',img: emyu, decs: 'yahaha fans emyu' },
     // tambahkan kodam
   ];
