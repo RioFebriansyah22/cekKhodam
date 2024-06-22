@@ -75,8 +75,8 @@ function App() {
         <br>
           <br>
             <br>
-      <div className="text-white">
-       @di buat oleh Ryu
+      <div className="text-white mt-8">
+       <h1>Di buat oleh Ryuzhy</h1>
       </div>
     </div>
     
