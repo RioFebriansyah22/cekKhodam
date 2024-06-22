@@ -71,7 +71,11 @@ function App() {
           kodam={khodam} // Prop ini harus disesuaikan dengan nama yang benar (kodam vs khodam)
         />
       </div>
+      <div>
+       @di buat oleh Ryu
+      </div>
     </div>
+    
   );
 }
 
