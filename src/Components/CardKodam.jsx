@@ -28,7 +28,7 @@ const InputForm = ({ nameInput, setNameInput, cekKhodam, loading, reset, kodam }
       </button>
       {kodam && (
         <div className="text-green-500 mt-4 text-2xl font-bold">
-          <h2 className="text-xl mb-2">Khodam:{nameInput} {kodam.name}</h2>
+          <h2 className="text-xl mb-2">Khodam {nameInput} : {kodam.name}</h2>
           <img className='w-[30%] mx-auto' src={kodam.img} alt="" />
           <h2 className="text-xl mb-2"> {kodam.decs}</h2>
 
