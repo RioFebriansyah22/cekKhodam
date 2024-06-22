@@ -75,7 +75,7 @@ function App() {
         <br>
           <br>
             <br>
-      <div className='text-white'>
+      <div className="text-white">
        @di buat oleh Ryu
       </div>
     </div>
