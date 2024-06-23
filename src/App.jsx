@@ -84,7 +84,12 @@ function App() {
           reset={resetForm}
           kodam={khodam} // Prop ini harus disesuaikan dengan nama yang benar (kodam vs khodam)
         />
-      </div>      
+      </div> 
+      <br/>
+      <br/>
+      <div>
+      <h1 className="text-white"> @di buat oleh Ryu</h1>
+      </div>
     </div>
     
   );
