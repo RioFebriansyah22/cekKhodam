@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import InputForm from './Components/CardKodam';
+import './App.css';
 import emyu from './Images/emyu.jpg'
 import rumme from './Images/rumme.jpg'
 import messi from './Images/messi.jpg'
@@ -97,7 +98,7 @@ function App() {
   };
 
   return (
-    <div className="bg-red-800   min-h-screen flex flex-col justify-center items-center text-center">
+    <div className="bodys   min-h-screen flex flex-col justify-center items-center text-center">
       <div className="card  border-2 bg-red-600 rounded-lg p-8 max-w-lg  w-full shadow-lg backdrop-blur-lg relative shadow-slate-200">
         <h1 className="text-white text-3xl mb-4 font-bold">Cek Khodam</h1>
         <p className="text-white mb-4">Masukkan nama untuk mengetahui khodam</p>
