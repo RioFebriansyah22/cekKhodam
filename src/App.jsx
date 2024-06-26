@@ -47,8 +47,7 @@ function App() {
     { name: 'mas anis mas anis' },
     { name: 'jokowi' },
     { name: 'megachan' },
-    { name: 'Rummenigge',img: rumme, decs: 'kamu adalah titisan Rumme' },
-    { name: 'Messi',img: messi, decs: 'kamu adalah goat' },
+    
     { name: 'emyu',img: emyu, decs: 'yahaha fans emyu' },
     { name: 'buta tuli' },
     { name: 'harimau jawa' },
@@ -76,6 +75,22 @@ function App() {
     { name: 'jimat' },
     { name: 'kukang' },
     { name: 'naga sakti' },
+    { name: 'orang dalam' },
+    { name: 'kurama' },
+    { name: 'kunti bogel' },
+    { name: 'ganjar' },
+    { name: 'banteng merah' },
+    { name: 'PDI' },
+    { name: 'vespa' },
+    { name: 'setan merah' },
+    { name: 'cekgu besar' },
+    { name: 'upin' },
+    { name: 'ipin' },
+    { name: 'mewing gyat 10x' },
+    { name: 'naga emas' },
+    { name: 'pempek' },
+    { name: 'mie goreng' },
+    { name: 'windah basudara' },
     // tambahkan kodam
   ];
 
