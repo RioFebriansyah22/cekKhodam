@@ -130,7 +130,7 @@ function App() {
       <br/>
       <br/>
       <div>
-      <h1 className="text-white"> @di buat oleh Ryu</h1>
+      <h1 className="text-white"> @di buat oleh Rio</h1>
       </div>
     </div>
     
