@@ -104,7 +104,7 @@ function App() {
       const randomKhodam = khodams[Math.floor(Math.random() * khodams.length)];
       setKhodam(randomKhodam);
       setLoading(false);
-    }, 500);
+    }, 1000);
   };
 
   const resetForm = () => {
@@ -130,7 +130,7 @@ function App() {
       <br/>
       <br/>
       <div>
-      <h1 className="text-white"> @di buat oleh Rio</h1>
+      <h1 className="text-white"> @Devlopment by Rio</h1>
       </div>
     </div>
     
